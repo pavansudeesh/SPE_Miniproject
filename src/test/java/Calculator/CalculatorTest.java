@@ -1,4 +1,4 @@
-package com.calculator;
+package Calculator;
 
 import org.junit.Assert;
 import org.junit.Before;
