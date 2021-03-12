@@ -1,6 +1,7 @@
 ---
 - name: Deploy docker img
   hosts: localhost
+  remote_user: root
   tasks:
     - name: Pull miniproject image
       docker_image:
