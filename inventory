@@ -1,2 +1,2 @@
 enable_plugins = yaml, ini
-localhost ansible_user = sudeesh
+localhost
