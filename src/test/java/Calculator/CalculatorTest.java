@@ -47,6 +47,23 @@ public class CalculatorTest
         double result = calculator.pow(a, b);
         Assert.assertEquals(expectedResult, result,0.000000005);
     }
+    @Test
+    public void testsqrt_1()
+    {
+        double a = 27;
+        double expectedResult = 5.0;
+        double result = calculator.sqrt(a);
+        Assert.assertNotEquals(expectedResult, result,0.00005);
+    }
+    @Test
+    public void testln_1() {
+        double a = 8;
+        double expectedResult = 2.197225;
+        double result = calculator.ln(a);
+        Assert.assertNotEquals(expectedResult, result,0.0000005);
+    }
+
+
 
     //@Test(expected = IllegalArgumentException.class)
     //blic void testDivideByZero() {
