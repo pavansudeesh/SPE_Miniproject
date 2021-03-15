@@ -1,0 +1,400 @@
+15/Mar/2021:15:52:03 099 [Calculator.java] [INFO] Calculator.Calculator [ROOT] - 27.0
+15/Mar/2021:15:52:03 109 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ROOT] - 5.196152422706632
+15/Mar/2021:15:52:03 113 [Calculator.java] [INFO] Calculator.Calculator [POWER] - 3.0, 2.0
+15/Mar/2021:15:52:03 114 [Calculator.java] [INFO] Calculator.Calculator [RESULT - POWER] - 9.0
+15/Mar/2021:15:52:03 116 [Calculator.java] [INFO] Calculator.Calculator [LOG] - 8.0
+15/Mar/2021:15:52:03 117 [Calculator.java] [INFO] Calculator.Calculator [RESULT - LOG] - 2.0794415416798357
+15/Mar/2021:15:52:03 119 [Calculator.java] [INFO] Calculator.Calculator [ROOT] - 25.0
+15/Mar/2021:15:52:03 121 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ROOT] - 5.0
+15/Mar/2021:15:52:03 122 [Calculator.java] [INFO] Calculator.Calculator [LOG] - 9.0
+15/Mar/2021:15:52:03 124 [Calculator.java] [INFO] Calculator.Calculator [RESULT - LOG] - 2.1972245773362196
+15/Mar/2021:15:52:03 126 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 6
+15/Mar/2021:15:52:03 127 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 5
+15/Mar/2021:15:52:03 128 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:03 129 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 130 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 130 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 131 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 132 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 133 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 134 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 135 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 136 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 137 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 138 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 138 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 139 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 140 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 141 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 142 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 143 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 143 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 145 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 145 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 146 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 147 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 148 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:03 149 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 150 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 151 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 152 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 153 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 154 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 155 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 155 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 156 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 157 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 158 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 159 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 160 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 160 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 162 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 162 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 163 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 164 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 165 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 165 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 166 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 167 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 168 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 120
+15/Mar/2021:15:52:03 169 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:03 170 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 171 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 171 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 172 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 174 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 175 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 175 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 176 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 177 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 181 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 182 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 183 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 184 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 185 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 185 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 186 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 187 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 187 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 188 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 189 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 190 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 191 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 191 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:03 192 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 194 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 195 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 196 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 197 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 198 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 199 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 200 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 201 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 202 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 202 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 203 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 204 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 204 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 205 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 206 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 207 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 207 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 208 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 209 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 209 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 210 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 211 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 720
+15/Mar/2021:15:52:03 212 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 5
+15/Mar/2021:15:52:03 213 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:03 215 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 215 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 216 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 217 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 217 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 218 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 219 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 220 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 221 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 222 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 223 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 224 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 225 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 226 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 227 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 228 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 229 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 230 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 231 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 232 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 233 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 234 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 235 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:03 236 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 237 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 237 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 238 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 239 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 240 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 241 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 241 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 242 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 243 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 244 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 245 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 246 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 247 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 248 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 249 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 250 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 252 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 252 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 253 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 254 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 255 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 256 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 120
+15/Mar/2021:15:52:03 257 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:03 258 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 259 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 260 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 260 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 261 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 263 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 264 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 264 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 267 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 268 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 269 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 270 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 271 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 272 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 273 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 274 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 275 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 275 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 276 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 277 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 279 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 290 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 291 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:03 299 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:03 300 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 302 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 303 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 305 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 308 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 309 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 310 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 311 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 312 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 313 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 314 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:03 315 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:03 315 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 316 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 318 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 318 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 319 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:03 320 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:03 321 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:03 321 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:03 322 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:17 958 [Calculator.java] [INFO] Calculator.Calculator [ROOT] - 27.0
+15/Mar/2021:15:52:17 968 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ROOT] - 5.196152422706632
+15/Mar/2021:15:52:17 971 [Calculator.java] [INFO] Calculator.Calculator [POWER] - 3.0, 2.0
+15/Mar/2021:15:52:17 972 [Calculator.java] [INFO] Calculator.Calculator [RESULT - POWER] - 9.0
+15/Mar/2021:15:52:17 974 [Calculator.java] [INFO] Calculator.Calculator [LOG] - 8.0
+15/Mar/2021:15:52:17 975 [Calculator.java] [INFO] Calculator.Calculator [RESULT - LOG] - 2.0794415416798357
+15/Mar/2021:15:52:17 977 [Calculator.java] [INFO] Calculator.Calculator [ROOT] - 25.0
+15/Mar/2021:15:52:17 978 [Calculator.java] [INFO] Calculator.Calculator [RESULT - ROOT] - 5.0
+15/Mar/2021:15:52:17 980 [Calculator.java] [INFO] Calculator.Calculator [LOG] - 9.0
+15/Mar/2021:15:52:17 981 [Calculator.java] [INFO] Calculator.Calculator [RESULT - LOG] - 2.1972245773362196
+15/Mar/2021:15:52:17 983 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 6
+15/Mar/2021:15:52:17 984 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 5
+15/Mar/2021:15:52:17 985 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:17 986 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:17 987 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:17 988 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:17 989 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:17 991 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:17 992 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:17 993 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:17 994 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:17 995 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:17 996 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:17 998 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:17 998 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:17 999 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 000 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 001 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 002 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 003 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 004 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 005 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 006 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 007 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 008 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 009 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:18 010 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 011 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 012 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 013 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 014 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 014 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 016 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 017 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 018 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 019 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 019 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 020 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 022 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 023 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 024 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 025 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 027 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 027 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 028 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 029 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 030 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 031 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 039 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 120
+15/Mar/2021:15:52:18 040 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:18 041 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 042 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 043 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 044 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 045 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 046 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 046 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 047 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 048 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 049 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 050 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 051 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 052 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 053 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 053 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 055 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 055 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 057 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 058 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 059 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 060 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 061 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 062 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:18 062 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 063 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 064 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 065 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 066 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 067 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 067 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 068 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 069 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 070 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 071 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 072 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 073 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 074 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 075 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 076 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 077 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 078 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 079 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 080 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 081 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 082 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 082 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 720
+15/Mar/2021:15:52:18 083 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 5
+15/Mar/2021:15:52:18 084 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:18 085 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 085 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 086 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 087 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 088 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 089 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 090 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 091 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 091 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 092 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 093 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 094 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 094 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 095 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 096 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 097 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 097 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 098 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 099 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 100 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 101 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 102 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 103 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:18 103 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 104 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 116 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 117 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 118 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 119 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 119 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 120 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 121 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 121 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 122 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 123 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 123 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 124 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 125 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 126 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 126 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 127 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 128 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 128 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 129 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 136 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 137 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 120
+15/Mar/2021:15:52:18 138 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 4
+15/Mar/2021:15:52:18 139 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 151 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 151 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 152 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 158 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 163 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 165 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 166 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 167 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 167 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 168 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 168 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 169 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 169 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 170 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 171 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 172 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 173 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 173 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 174 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 174 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 175 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 175 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 24
+15/Mar/2021:15:52:18 176 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 3
+15/Mar/2021:15:52:18 176 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 177 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 179 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 194 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 195 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 195 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 196 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 196 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 197 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 198 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 198 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 6
+15/Mar/2021:15:52:18 199 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 2
+15/Mar/2021:15:52:18 200 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 209 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 210 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 210 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 211 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 2
+15/Mar/2021:15:52:18 211 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 1
+15/Mar/2021:15:52:18 212 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0
+15/Mar/2021:15:52:18 212 [Calculator.java] [INFO] Calculator.Calculator [RESULT - FACTORIAL] - 1
+15/Mar/2021:15:52:18 212 [Calculator.java] [INFO] Calculator.Calculator [FACTORIAL] - 0

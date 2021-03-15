@@ -4,8 +4,12 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import java.util.Scanner;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import java.util.*;
 public class Calculator
 {
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hii, Welcome to Scientific Calculator!!");
@@ -36,20 +40,32 @@ public class Calculator
     }
         public static double sqrt ( double a)
         {
-            double sqrt = Math.sqrt(a);
-            return sqrt;
+            logger.info("[ROOT] - " + a);
+            double sqrt1 = Math.sqrt(a);
+            logger.info("[RESULT - ROOT] - " + sqrt1);
+            return sqrt1;
         }
         public static int factorial ( int n)
         {
+            logger.info("[FACTORIAL] - " + n);
+            int fact = 1;
             if (n == 0)
-                return 1;
-
+                return fact;
+            fact = n*factorial(n-1);
+            logger.info("[RESULT - FACTORIAL] - " + fact);
             return n * factorial(n - 1);
         }
-        public static double ln ( double a){
+        public static double ln ( double a)
+        {
+            logger.info("[LOG] - " + a);
+            logger.info("[RESULT - LOG] - " + Math.log(a));
             return Math.log(a);
         }
-        public static double pow ( double a, double b){
+        public static double pow ( double a, double b)
+        {
+            logger.info("[POWER] - " + a + ", " + b);
+            logger.info("[RESULT - POWER] - " + Math.pow(a,b ));
+
             return Math.pow(a, b);
         }
 }
