@@ -1,9 +1,7 @@
 package Calculator;
-
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-
 public class CalculatorTest
 {
     private Calculator calculator;
